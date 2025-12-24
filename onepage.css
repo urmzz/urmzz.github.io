@@ -1,0 +1,50 @@
+body {
+font-family: Arial, sans-serif;
+background-color: black;
+color: red;
+padding: 20 px;
+}
+h1 {
+color: red;
+}
+html {
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
+
+thead th,
+tfoot th {
+  font-family: "Rock Salt", cursive;
+}
+
+th {
+  letter-spacing: 2px;
+}
+
+td {
+  letter-spacing: 1px;
+}
+
+tbody td {
+  text-align: center;
+}
+
+tfoot th {
+  text-align: right;
+}
+th,
+td {
+  padding: 20px;
+}
+thead,
+tfoot {
+
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+
+thead th,
+tfoot th,
+tfoot td {
+  background: linear-gradient(to bottom, rgb(0 0 0 / 10%), rgb(0 0 0 / 50%));
+  border: 3px solid red;
+}

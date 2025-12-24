@@ -1,0 +1,22 @@
+body {
+font-family: Arial, sans-serif;
+background-color: black;
+color: red;
+padding: 20 px;
+}
+h1 {
+color: red;
+}
+p {
+    color: white;
+}
+p1 {
+    color: red;
+}
+h3 {
+    color: white;
+}
+
+html {
+  font-family: "helvetica neue", helvetica, arial, sans-serif;
+}
